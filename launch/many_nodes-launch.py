@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-"""Launch a Phidgets IK in a component container."""
+"""Launch many of the simple node in a component container."""
 
 import launch
 from launch_ros.actions import ComposableNodeContainer
